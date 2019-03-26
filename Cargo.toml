@@ -1,8 +1,9 @@
 [package]
-name = "example"
+name = "choresheet"
 version = "0.1.0"
 authors = ["aadideshpande"]
 edition = "2018"
 
 [dependencies]
 yew = "*"
+stdweb = "*"
